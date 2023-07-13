@@ -1,11 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2023-07-13T15:07:55.632Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="1WI5t5nNUy4ifmG8k6aM" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-13T15:08:54.259Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="KAyZIWHlX-Bbbaw590qg" version="21.6.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1421" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GzlsBKg0Fm_JVfd0QsRh-1" value="CAMERA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="120" width="40" height="160" as="geometry" />
+        <mxCell id="GzlsBKg0Fm_JVfd0QsRh-4" value="CAMERA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GzlsBKg0Fm_JVfd0QsRh-6" value="Wi-Fi Device" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GzlsBKg0Fm_JVfd0QsRh-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
